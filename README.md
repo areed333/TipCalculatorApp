@@ -1,4 +1,4 @@
-# Pre-work - *project name tipCalculator 
+# Pre-work - *project name tipCalculator*
 *Note: In the application itself, for a less generic name, the applicaiton is referred to as the "Tip Solver."
 
 **tipCalculator** is a tip calculator application for the iOS.
