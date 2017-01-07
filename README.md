@@ -1,24 +1,26 @@
-# Pre-work - *project name and view controller has the identifier Tip Calculator (note: in app itself, name is called Tip Solver)*
+# Pre-work - *project name tipCalculator 
+*Note: In the application itself, for a less generic name, the applicaiton is referred to as the "Tip Solver."
 
-**Tip Calculator** is a tip calculator application for iOS.
+**tipCalculator** is a tip calculator application for the iOS.
 
 Submitted by: **Aaron Justin Reed**
 
-Time spent: **4.75** hours spent in total
+Time spent: **4.75** hours spent in total (time spent also looking into Settings optional feature)
 
 ## User Stories
-    The tipCalculator "Tip Solver" application allows its user to enter in an arbitrary bill amount and from
+    
+    *The tipCalculator "Tip Solver" application allows its user to enter in an arbitrary bill amount and from
     this bill amount, the application solves the tip, displays this tip, and also sums the total (i.e. the
     individual bill before a tip and the tip value) together to display to the user how much money needs to be
     paid given their selected tip amount. 
 
 The following **required** functionality is complete:
 
-* [ check] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
-* [check] UI animations //the color green added for enhanced aesthetic value to the application.
+* [x] UI animations //the color green added for enhanced aesthetic value to the application.
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
 * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
@@ -40,10 +42,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-    This was my first time using Swift and creating an iOS application of any kind. The main challenges I had
-    were becoming familiar with firstly, the Swift language, and secondly, the Xcode platform. Learning about 
-    storyboards, and the sequence of different controllers (e.g. view controllers and navigation controllers)
-    also required some time to learn enough of to be able to complete the project functionally. 
+    *The main challenges I had involved the time needed to learn about Swift and Xcode as a platform. I had zero experience with Swift and zero experience developing a mobile application using Xcode. 
+    *Since Xcode is a robust platform, it was very interesting learning about the use of storyboards along with the sequence of different controllers (e.g. view controllers and navigation controllers); in order to take this recently learned information and apply it to creating a functional application took some time to work through. 
+    *Time was also spent learning about how to add Settings to this iOS application to specify a default tip value as opposed to waiting for the user to explicitly select a tip value. In the future, I will be able to apply this knowledge to further enhancing iOS web applications in the near future. 
 
 
 ## License
