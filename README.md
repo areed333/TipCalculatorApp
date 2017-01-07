@@ -43,8 +43,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 Describe any challenges encountered while building the app.
 
     *The main challenges I had involved the time needed to learn about Swift and Xcode as a platform. I had zero experience with Swift and zero experience developing a mobile application using Xcode. 
-    *Since Xcode is a robust platform, it was very interesting learning about the use of storyboards along with the sequence of different controllers (e.g. view controllers and navigation controllers); in order to take this recently learned information and apply it to creating a functional application took some time to work through. 
-    *Time was also spent learning about how to add Settings to this iOS application to specify a default tip value as opposed to waiting for the user to explicitly select a tip value. In the future, I will be able to apply this knowledge to further enhancing iOS web applications in the near future. 
+    *Since Xcode is a robust platform, it was very interesting learning about the use of storyboards along with the sequence of different controllers (e.g. view controllers and navigation controllers). I took this recently learned information and applied it to creating a functional application which took some time to both learn and work through so that I made sure I understood what I was doing as opposed to only following directions. 
+    *Time was also spent learning about how to add Settings to this iOS application to specify a default tip value as opposed to waiting for the user to explicitly select a tip value. In the future, I will be able to apply this knowledge to further enhancing iOS web applications. 
 
 
 ## License
